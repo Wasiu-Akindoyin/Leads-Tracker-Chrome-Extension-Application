@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Carter+One&family=Cookie&family=Island+Moments&family=PT+Serif+Caption&family=Playfair+Display+SC:wght@400;700;900&family=Red+Hat+Display:wght@700;900&family=Roboto+Mono&display=swap');
+
+/* UNIVERSAL STYLING STARTS HERE*/
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/* BODY STYLING STARTS HERE*/
+body{
+	font-size: 20px;
+	font-weight: bold;
+	margin: 5px;
+	min-width: 500px;
+	min-height: 200px;
+	background-color: #d05400;
+	font-family: 'Roboto Mono', monospace;
+}
+
+/* INPUT TAB STYLING STARTS HERE*/
+#input-el{
+	width: 100%;
+	padding: 15px;
+	border: 1px solid  white;
+	margin-bottom: 7px;
+}
+
+/* INPUT BUTTON STYLING STARTS HERE*/
+#input-btn{
+	color: #d05400;
+	border: 2px solid #d05400;
+	padding: 10px;
+	background-color: white;
+	margin-bottom: 10px;
+	font-size: 20px;
+	border-radius: 2px;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+/* SAVE BUTTON STYLING STARTS HERE*/
+#save-tab{
+	color: #d05400;
+	border: 2px solid #d05400;
+	padding: 10px;
+	background-color: white;
+	margin-bottom: 10px;
+	font-size: 20px;
+	border-radius: 2px;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+/* DELETE BUTTON STYLING STARTS HERE*/
+#delete-btn{
+	color: #d05400;
+	border: 2px solid #d05400;
+	padding: 10px;
+	background-color: white;
+	margin-bottom: 10px;
+	font-size: 20px;
+	border-radius: 2px;
+	letter-spacing: 1px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+/*  LINK STYLING STARTS HERE*/
+ul{
+	list-style: none;
+	padding-left: 0px;
+}
+
+li{
+	margin-top: 5px;
+}
+
+li  a{
+	color: white;
+}
+
+/* MAIN FOOTER STYLING */
+#main-footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	font-size: 15px;
+	text-align: center;
+	color: white;
+	margin-bottom: 10px;
+}

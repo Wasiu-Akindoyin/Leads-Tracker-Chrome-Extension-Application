@@ -1,0 +1,1 @@
+This is a readme file on my Leads Tracker Chrome Extension Project built using HTML, CSS, and JavaScript by Wasiu Olanrewaju Akindoyin an aspiring Web3 Developer.
